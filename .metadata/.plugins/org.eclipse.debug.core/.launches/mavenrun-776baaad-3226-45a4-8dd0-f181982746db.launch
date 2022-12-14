@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="jiraVersion=5.2.11"/>
+        <listEntry value="stashDataVersion=2.4.1"/>
+        <listEntry value="package=Ebankingv1.Ebankingv1"/>
+        <listEntry value="stashVersion=2.4.1"/>
+        <listEntry value="archetypeArtifactId=jira4-plugin-archetype"/>
+        <listEntry value="confluenceDataVersion=5.5"/>
+        <listEntry value="groupId=Ebankingv1"/>
+        <listEntry value="fecruVersion=2.8.1-20120829051639"/>
+        <listEntry value="crowdDataVersion=2.5.2"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="refappVersion=2.20.0"/>
+        <listEntry value="jiraDataVersion=5.2.11"/>
+        <listEntry value="bambooDataVersion=3.2.2"/>
+        <listEntry value="confluenceVersion=5.5"/>
+        <listEntry value="archetypeVersion=5.0.18"/>
+        <listEntry value="fecruDataVersion=2.8.1-20120829051639"/>
+        <listEntry value="bambooVersion=4.4.5"/>
+        <listEntry value="archetypeGroupId=com.atlassian.maven.archetypes"/>
+        <listEntry value="artifactId=Ebankingv1"/>
+        <listEntry value="outputDirectory=C:\Users\gaurav.chandan\eclipse-workspace"/>
+        <listEntry value="crowdVersion=2.5.2"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\gaurav.chandan\eclipse-workspace"/>
+</launchConfiguration>
